@@ -114,3 +114,17 @@ a {
         padding: 20px;
     }
 }
+
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 15px 30px;
+  background: #222;
+}
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+}
+.navbar a:hover {
+  text-decoration: underline;
+}
